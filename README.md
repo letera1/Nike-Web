@@ -17,7 +17,7 @@
 ## 🖼️ Project Preview
 
 <p align="center">
-  <img src="https://i.imgur.com/EaGp0iL.png" alt="Nike Landing Page Screenshot" width="80%" />
+  <img src="./preview (8).png" alt="Nike Landing Page Screenshot" width="80%" />
 </p>
 
 ---
