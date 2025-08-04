@@ -30,7 +30,7 @@ const Nav = () => {
         <div className='flex gap-2 text-lg leading-normal font-medium font-montserrat max-lg:hidden wide:mr-24'>
           <a href='/'>SignIn</a>
           <span>/</span>
-          <a href='/'>Explore Now</a>
+          <a href='/'>Explore now</a>
         </div>
         <div className='hidden max-lg:block'>
           <img src={hamburger} alt='hamburger icon' width={25} height={25} />
