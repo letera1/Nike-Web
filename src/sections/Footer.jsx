@@ -57,7 +57,7 @@ const Footer = () => {
         <div className='flex flex-1 justify-start items-center gap-2 font-montserrat cursor-pointer'>
           <img
             src={copyrightSign}
-            alt='copyright sign'
+            alt='copyrightsign'
             width={20}
             height={20}
             className='rounded-full m-0'
